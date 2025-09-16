@@ -13,14 +13,20 @@ A simple **bpy** add-on that adds a custom panel to the 3D View (N-panel) with q
   - Quick access to **Subdivision** and **Modifier** operators
 - Proper `bl_info` + installable as an add-on
 
+<<<<<<< HEAD
 ## 📦 Installation
 1. Download `AddObjectScript.py`.
 2. Blender → **Edit ▸ Preferences ▸ Add-ons ▸ Install…**
 3. Select `AddObjectScript.py`, then enable **Object Adder**.
 4. Open the 3D View **N-panel** → tab **“My 1st Addon”**.
+=======
+## Screenshot
+<img width="2557" height="1022" alt="panel" src="https://github.com/user-attachments/assets/ec6d787e-a13e-40b1-a1f0-4d45696f0b93" />
+>>>>>>> adf3572f816323afcdd0eb3ad35db764e143983e
 
 ## 🖼 Preview
 
+<<<<<<< HEAD
 
 
 ## 📝 Notes / What I learned
@@ -40,3 +46,9 @@ A simple **bpy** add-on that adds a custom panel to the 3D View (N-panel) with q
 
 ## 🙏 Credit
 Based on **Darkfall – Blender Python: Scripting Series**.
+=======
+## What I Learned
+- How to create a custom Panel with `bpy.types.Panel`.
+- How to register/unregister classes in Blender.
+- How to link built-in operators to custom buttons.
+>>>>>>> adf3572f816323afcdd0eb3ad35db764e143983e
