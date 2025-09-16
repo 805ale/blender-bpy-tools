@@ -8,7 +8,7 @@
 ---
 
 ## Screenshot
-![panel](AddObject/panel.png)
+<img width="2557" height="1022" alt="panel" src="https://github.com/user-attachments/assets/ec6d787e-a13e-40b1-a1f0-4d45696f0b93" />
 
 ---
 
