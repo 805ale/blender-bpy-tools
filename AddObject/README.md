@@ -13,7 +13,6 @@ A simple **bpy** add-on that adds a custom panel to the 3D View (N-panel) with q
   - Quick access to **Subdivision** and **Modifier** operators
 - Proper `bl_info` + installable as an add-on
 
-<<<<<<< HEAD
 ## 📦 Installation
 1. Download `AddObjectScript.py`.
 2. Blender → **Edit ▸ Preferences ▸ Add-ons ▸ Install…**
@@ -21,13 +20,7 @@ A simple **bpy** add-on that adds a custom panel to the 3D View (N-panel) with q
 4. Open the 3D View **N-panel** → tab **“My 1st Addon”**.
 =======
 ## Screenshot
-<img width="2557" height="1022" alt="panel" src="https://github.com/user-attachments/assets/ec6d787e-a13e-40b1-a1f0-4d45696f0b93" />
->>>>>>> adf3572f816323afcdd0eb3ad35db764e143983e
-
-## 🖼 Preview
-
-<<<<<<< HEAD
-
+<img width="2552" height="1024" alt="panel2" src="https://github.com/user-attachments/assets/ccc425f4-b62e-43bf-8ff1-131e07534786" />
 
 ## 📝 Notes / What I learned
 - Defining `bpy.types.Panel` with `bl_space_type='VIEW_3D'`, `bl_region_type='UI'`, custom `bl_category`.
@@ -45,10 +38,10 @@ A simple **bpy** add-on that adds a custom panel to the 3D View (N-panel) with q
 - Clean operator wrappers instead of calling built-ins directly.
 
 ## 🙏 Credit
-Based on **Darkfall – Blender Python: Scripting Series**.
-=======
+- Based on **Darkfall – Blender Python: Scripting Series**.
+
 ## What I Learned
 - How to create a custom Panel with `bpy.types.Panel`.
 - How to register/unregister classes in Blender.
 - How to link built-in operators to custom buttons.
->>>>>>> adf3572f816323afcdd0eb3ad35db764e143983e
+
