@@ -31,10 +31,11 @@ It demonstrates **custom operators** that build nodes and wire them together, th
 ## 🖼 Preview
 *(Screenshots live in `/renders`)*
 
-- Panel in Shader Editor  
-  ![panel](renders/panel.png)
+- Panel in Shader Editor
+- <img width="263" height="371" alt="panel" src="https://github.com/user-attachments/assets/6405f2cc-a76b-48c3-834b-60e1af8dfb76" />
 - Diamond nodes auto-created & linked  
-  ![diamond_nodes](renders/diamond_nodes.png)
+<img width="1314" height="754" alt="materials" src="https://github.com/user-attachments/assets/19337b92-001e-4f66-aaee-7f457b37ab14" />
+
 
 ---
 
@@ -70,4 +71,5 @@ It demonstrates **custom operators** that build nodes and wire them together, th
 ---
 
 ## 🙏 Credit
+
 - Darkfall – Blender Python “Shader Library” tutorial
