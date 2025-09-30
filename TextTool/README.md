@@ -11,7 +11,7 @@ Create text objects quickly from the 3D Viewport sidebar, with options for scale
 ## Installation
 1. **Download/clone** this repo.
 2. In Blender: `Edit > Preferences > Add-ons > Install...`
-3. Select the **TextTool** folder (it must contain `__init__.py`).
+3. Select the **TextTool** folder.
 4. Enable **Text Tool**.
 
 ## Usage
@@ -24,4 +24,3 @@ Create text objects quickly from the 3D Viewport sidebar, with options for scale
 
 ## Notes
 - Category is “Add Mesh” for visibility, even though Blender creates a FONT curve object.
-- If you prefer a minimal install as a single file, rename `__init__.py` and install that file directly.
